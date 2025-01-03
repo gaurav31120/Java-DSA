@@ -3,3 +3,4 @@ Here, I will write all the code written in Java DSA.
 1 Java DSA info
 2 Linear Search 
 3 Binary search iterative
+4 Binary search recursive
